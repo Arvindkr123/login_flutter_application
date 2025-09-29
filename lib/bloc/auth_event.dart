@@ -13,3 +13,7 @@ final class LoginButtonRequested extends AuthEvent{
   });
 
 }
+
+final class LogoutButtonRequested extends AuthEvent{
+  
+}
